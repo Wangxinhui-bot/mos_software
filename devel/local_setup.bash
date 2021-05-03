@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/catkin_tools_prebuild/local_setup.bash

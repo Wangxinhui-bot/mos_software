@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mos_software.iml" filepath="$PROJECT_DIR$/.idea/mos_software.iml" />
+      <module fileurl="file://$USER_HOME$/rqt_handle/.idea/rqt_handle.iml" filepath="$USER_HOME$/rqt_handle/.idea/rqt_handle.iml" />
+    </modules>
+  </component>
+</project>

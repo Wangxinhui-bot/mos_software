@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/rqt_mos_logo/lib/pkgconfig/rqt_mos_logo.pc

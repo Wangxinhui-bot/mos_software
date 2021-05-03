@@ -1,0 +1,6 @@
+devel_space: /home/ted/mos_software/devel
+install: false
+install_space: /home/ted/mos_software/install
+profile: default
+source_space: /home/ted/mos_software/src
+workspace: /home/ted/mos_software

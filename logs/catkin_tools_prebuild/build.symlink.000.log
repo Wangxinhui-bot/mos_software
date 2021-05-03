@@ -1,0 +1,12 @@
+Symlinking /home/ted/mos_software/devel/./cmake.lock
+Symlinking /home/ted/mos_software/devel/./setup.bash
+Symlinking /home/ted/mos_software/devel/./setup.zsh
+Symlinking /home/ted/mos_software/devel/./_setup_util.py
+Symlinking /home/ted/mos_software/devel/./env.sh
+Symlinking /home/ted/mos_software/devel/./local_setup.sh
+Symlinking /home/ted/mos_software/devel/./local_setup.zsh
+Symlinking /home/ted/mos_software/devel/./setup.sh
+Symlinking /home/ted/mos_software/devel/./local_setup.bash
+Symlinking /home/ted/mos_software/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/ted/mos_software/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ted/mos_software/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

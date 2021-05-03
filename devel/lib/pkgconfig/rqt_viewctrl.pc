@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/rqt_viewctrl/lib/pkgconfig/rqt_viewctrl.pc

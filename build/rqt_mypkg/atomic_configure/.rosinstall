@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ted/mos_software/devel/.private/rqt_mypkg/setup.sh

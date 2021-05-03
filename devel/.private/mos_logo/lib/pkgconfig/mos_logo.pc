@@ -1,0 +1,8 @@
+prefix=/home/ted/mos_software/devel/.private/mos_logo
+
+Name: mos_logo
+Description: Description of mos_logo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

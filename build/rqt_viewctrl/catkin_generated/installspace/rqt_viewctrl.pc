@@ -1,0 +1,8 @@
+prefix=/home/ted/mos_software/install
+
+Name: rqt_viewctrl
+Description: Description of rqt_viewctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/mos_logo/share/mos_logo/cmake/mos_logoConfig-version.cmake

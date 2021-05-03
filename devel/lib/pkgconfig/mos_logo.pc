@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/mos_logo/lib/pkgconfig/mos_logo.pc

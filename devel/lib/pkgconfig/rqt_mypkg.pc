@@ -1,0 +1,1 @@
+/home/ted/mos_software/devel/.private/rqt_mypkg/lib/pkgconfig/rqt_mypkg.pc

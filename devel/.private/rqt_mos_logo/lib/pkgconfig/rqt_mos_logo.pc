@@ -1,0 +1,8 @@
+prefix=/home/ted/mos_software/devel/.private/rqt_mos_logo
+
+Name: rqt_mos_logo
+Description: Description of rqt_mos_logo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,3 @@
+Symlinking /home/ted/mos_software/devel/lib/pkgconfig/rqt_mypkg.pc
+Symlinking /home/ted/mos_software/devel/share/rqt_mypkg/cmake/rqt_mypkgConfig.cmake
+Symlinking /home/ted/mos_software/devel/share/rqt_mypkg/cmake/rqt_mypkgConfig-version.cmake
